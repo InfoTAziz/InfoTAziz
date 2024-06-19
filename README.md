@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aziz, an <a href="https://linkedin.com/in/Josh">IT Professional
+<h1>Hi, I'm Aziz, an <a href="https://linkedin.com/in/aziz-mukhammadkulov-1398b9314/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/aziz-mukhammadkulov-1398b9314/
