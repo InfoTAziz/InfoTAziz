@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aziz, an <https://www.linkedin.com/in/abdulaziz-mukhammadkulov-1398b9314/>IT Professional
+<h1>Hi, I'm Aziz, an <https://www.linkedin.com/in/abdulaziz-mukhammadkulov-1398b9314/">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
